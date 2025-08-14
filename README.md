@@ -2,4 +2,4 @@
 
 ###### Primeiro projeto no github
 ###### Aprendeno a usar markdown :P
-![Tux gordinho!] (
+![Tux gordinho!] (/assets/images/tux.png)
