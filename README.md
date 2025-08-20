@@ -1,6 +1,5 @@
 # AluraFliqs
 
 ###### Primeiro projeto no github
-###### Aprendeno a usar markdown :P
-![tux gordinho](tux.png)
+###### fique com o lendário tux
 <img src="tux.png" alt="tutututux" width="50"/>
