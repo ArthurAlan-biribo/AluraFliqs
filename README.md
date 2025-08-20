@@ -2,4 +2,4 @@
 
 ###### Primeiro projeto no github
 ###### fique com o lendário tux
-<img src="tux.png" alt="tutututux" width="100"/>
+<img src="tux.png" alt="tutututux" width="250"/>
